@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xBasox
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Web Development && Back-End
-- 💞️ I’m looking to collaborate on Open-Source Projects && Graduate Role
+- 💞️ I’m looking to collaborate on Open-Source Projects && Full-Stack Role
 - 📫 How to reach me basox@students.softuni.bg
 
 <!---
